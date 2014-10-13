@@ -19,8 +19,8 @@ Author
 
 1024jp
 
-- [GitHub](https://github.com/1024jp)
-- [Twitter](https://twitter.com/1024jp)
+- GitHub: [1024jp](https://github.com/1024jp)
+- Twitter: @[1024jp](https://twitter.com/1024jp)
 
 
 Lisence
@@ -28,4 +28,4 @@ Lisence
 
 © 2011-2014 1024jp
 
-The files are distributed under the terms of the MIT license. See [LISENCE](LISENCE) file for details.
+The files are distributed under the terms of the MIT license. See [LICENSE](LICENSE) file for details.
