@@ -1,9 +1,9 @@
 extensions:
 - keyString: "gp"
 - keyString: "plt"
-outlineMenuArray: []
-completionsArray: []
-commandsArray:
+outlineMenu: []
+completions: []
+commands:
 - beginString: "call"
 - beginString: "cd"
 - beginString: "clear"
@@ -44,16 +44,16 @@ metadata:
   version: "3.0"
   author: "1024jp"
   license: "MIT Lisence"
-  lastModified: "2014-08-15"
+  lastModified: "2014-10-14"
   description: "Support gnuplot <= v4.6"
   distributionURL: "https://github.com/1024jp/gnuplot-coteditor"
-charactersArray:
+characters:
 - beginString: "'"
   endString: "'"
 - beginString: "’"
   endString: "’"
-commentsArray: []
-valuesArray:
+comments: []
+values:
 - beginString: "box"
 - beginString: "boxerrorbar"
 - beginString: "boxerrorbars"
@@ -120,15 +120,15 @@ valuesArray:
 - beginString: "yerrorbars"
 - beginString: "yerrorline"
 - beginString: "yerrorlines"
-numbersArray:
+numbers:
 - beginString: "(?<![a-zA-Z_])[\\-\\+]?[0-9\\.]+((deg)|(pi))?"
   regularExpression: true
 - beginString: "NaN"
 - beginString: "pi"
-stringsArray:
+strings:
 - beginString: "\""
   endString: "\""
-keywordsArray:
+keywords:
 - beginString: "angles"
 - beginString: "arrow"
 - beginString: "autoscale"
