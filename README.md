@@ -4,7 +4,7 @@ gnuplot syntax style for CotEditor
 
 [CotEditor][]'s syntax style file for gnuplot. This version is based on the [official manual of gnuplot v4.6](http://www.gnuplot.info/documentation.html).
 
-[CotEditor]: http://coteditor.github.io/
+[CotEditor]: http://coteditor.com/
 
 
 Install
